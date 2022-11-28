@@ -1,0 +1,56 @@
+*{ 
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  text-decoration:none;
+  font-family:'EB Garamond',serif;
+  }
+.container{
+           margin:auto;
+           width:100%;		   
+}
+.row{
+	display:flex;
+}	 
+h2{
+   padding-bottom:20px;
+   padding-right:20px;
+   font-weight:50px;
+} 
+.img-sec img{
+         max-width:100%;
+}
+i{
+	  color:blue;
+	  border-radius:50%;
+	  padding:15px;
+	  border:3px solid blue;
+}
+.box{
+	 width:100%;
+	 margin:auto;
+	 padding-top:20px;
+}
+.box1{
+	  display:flex;
+}
+.icon{
+	  width:50%:
+}
+.col1{
+	 width:50%;
+	 padding:50px;
+}
+.col2{
+	  width:50%;
+
+}
+.heading{
+       padding:10px;
+}	
+h3{
+   padding-bottom:20px;
+}
+p{
+  font-size:20px;
+}  
